@@ -1,0 +1,21 @@
+.nav {
+    list-style-type: none;
+	display: inline;
+    margin: 0;
+    padding: 0;
+}
+#nav{
+	display: inline;
+	list-style-type: none;
+	background-color: #cccccc;
+	height: 50px;
+	width: 600px;
+	
+}
+
+li { display: inline;
+}
+
+body{font-family: arial, sans serif;
+		background-color: #fbfbfb;
+	}
